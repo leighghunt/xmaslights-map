@@ -4,9 +4,8 @@
 
 # about
 
+> xmaslights-map: best ng-fullstack app ever!
+
 #LICENSE
 
 MIT
-
-Technologies used:
-- [generator-ng-fullstack](https://github.com/ericmdantas/generator-ng-fullstack)
