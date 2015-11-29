@@ -1,0 +1,8 @@
+{
+  "generator-ng-fullstack": {
+    "server": "node",
+    "username": "leighghunt",
+    "appName": "xmaslights-map",
+    "transpilerServer": "typescript"
+  }
+}
